@@ -4,5 +4,6 @@
 
 # Output
 
-![Screenshot (180)](https://github.com/Sourodeep2001/PRODIGY_WD_03/assets/57056047/8d46178f-3a32-4164-acba-0061e71895a9)
-![Screenshot (181)](https://github.com/Sourodeep2001/PRODIGY_WD_03/assets/57056047/acf99355-a17d-4eab-a2ff-b658c75220d3)
+
+![Screenshot (180)](https://github.com/Sourodeep-2001/PRODIGY_WD_03/assets/57056047/3e44b6fb-d7a5-4b7c-a8e3-a60585796e39)
+![Screenshot (181)](https://github.com/Sourodeep-2001/PRODIGY_WD_03/assets/57056047/35cb6d8d-12b1-4a66-9400-9ca50b148070)
